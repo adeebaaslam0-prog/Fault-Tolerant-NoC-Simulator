@@ -94,9 +94,3 @@ This project is open-source and available under the MIT License.
 
 ## 👥 Credits and Supervision
 
-This project was developed by the following students under academic supervision:
-
-* **Supervisor:** Ms. Adeeba Aslam (Lecturer, The University of Lahore - Sargodha Campus)
-
-* **Developer:** Abdullah Mehmood ([@Abdullah-Mehmood-242](https://github.com/Abdullah-Mehmood-242/))
-* **Developer:** Ammad Younas ([@Ammad-Younas](https://github.com/Ammad-Younas))
